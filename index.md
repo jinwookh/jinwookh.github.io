@@ -42,6 +42,10 @@ di framework 과제 (2019.10.29 ~ 11.11)
 - di 개념 학습
 
 웹 서버 과제
-- 
+- [https://github.com/jinwookh/jwp-was/tree/feat-step2](https://github.com/jinwookh/jwp-was/tree/feat-step2)
+- request에 알맞는 response를 전달할 수 있도록 서버 구현
+- 세션 및 로그인 기능 구현
+- 쿠키, 세션, servlet 개념 학습
+
 
 mvc framework 과제
