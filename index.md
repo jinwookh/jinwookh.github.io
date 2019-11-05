@@ -10,6 +10,7 @@
 
 ## 인스타그램 프로젝트
 
+- https://github.com/wooteco-datastructure/miniprojects-2019
 - 인스타그램을 만드는 프로젝트
 - 2019.8월 한 달 간 진행
 - 기술 스택: spring, jpa, java, mysql
