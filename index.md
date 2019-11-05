@@ -12,7 +12,7 @@
 
 - [https://github.com/wooteco-datastructure/miniprojects-2019](https://github.com/wooteco-datastructure/miniprojects-2019)
 - 인스타그램을 만드는 프로젝트
-- 2019.8월 한 달 간 진행
+- 2019.8.1 ~ 8.31
 - 기술 스택: spring, jpa, java, mysql
 - 맡은 역할
     1. user profile image 관련된 기능 구현
@@ -41,7 +41,7 @@ di framework 과제 (2019.10.29 ~ 11.11)
 - bean을 만드는 과정에서 객체 간 의존성 확인
 - di 개념 학습
 
-웹 서버 과제
+웹 서버 과제 (2019.9.18 ~ 9.30)
 - [https://github.com/jinwookh/jwp-was/tree/feat-step2](https://github.com/jinwookh/jwp-was/tree/feat-step2)
 - request에 알맞는 response를 전달할 수 있도록 서버 구현
 - 세션 및 로그인 기능 구현
