@@ -8,11 +8,10 @@
 
 # 프로젝트
 
-## 인스타그램 프로젝트 (2019.8.1 ~ 8.31)
+### 인스타그램 프로젝트 (2019.8.1 ~ 8.31)
 
 - [https://github.com/wooteco-datastructure/miniprojects-2019](https://github.com/wooteco-datastructure/miniprojects-2019)
 - 인스타그램을 만드는 프로젝트
-- 
 - 기술 스택: spring, jpa, java, mysql
 - 맡은 역할
     1. user profile image 관련된 기능 구현
