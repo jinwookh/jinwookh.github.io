@@ -47,4 +47,10 @@ di framework 과제 (2019.10.29 ~ 11.11)
 - 세션 및 로그인 기능 구현
 - 쿠키, 세션, servlet 개념 학습
 
+### 서강대학교 사회과학부, 컴퓨터공학 전공 (2012.2월 ~ 2020.2월)
+
+운영체제 수업 (2017 2학기)
+- [https://github.com/jinwookh/pintos](https://github.com/jinwookh/pintos)
+- 운영체제 개념 실습
+
 
