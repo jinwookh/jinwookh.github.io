@@ -1,10 +1,17 @@
 # 자기소개
 
-안녕하세요, 저는 서버 개발을 희망하는 예비 개발자입니다.
+안녕하세요, 저는 현재 서버 개발을 하고 있습니다.
 
 `기능의 변경에 유연한 코드`를 만들고 싶습니다.
 
 현재 어떤 테스트가 `좋은 테스트`인가에 대해 관심이 많습니다.
+
+# 경력
+
+### 우아한형제들 (2020.1.1 ~ )
+- 상품시스템팀에서 근무
+- 상품 데이터를 제공하는 api 유지 및 보수
+- 상품 데이터를 보정하는 batch 개발
 
 # 프로젝트
 
@@ -52,4 +59,7 @@ di framework 과제 (2019.10.29 ~ 11.11)
 - [https://github.com/jinwookh/pintos](https://github.com/jinwookh/pintos)
 - 운영체제 개념 실습
 
-
+# 오픈소스
+### spring batch
+- 주석을 고침
+- https://github.com/spring-projects/spring-batch/pull/3679
