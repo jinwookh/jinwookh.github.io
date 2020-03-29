@@ -52,8 +52,3 @@ di framework 과제 (2019.10.29 ~ 11.11)
 운영체제 수업 (2017 2학기)
 - [https://github.com/jinwookh/pintos](https://github.com/jinwookh/pintos)
 - 운영체제 개념 실습
-
-# 오픈소스
-### spring batch
-- 주석을 수정
-- [https://github.com/spring-projects/spring-batch/pull/3679](https://github.com/spring-projects/spring-batch/pull/3679)
