@@ -6,7 +6,7 @@
 ### 우아한형제들 (2020.01.01 ~ 2023.10.04)
 - 광고시스템 유지 보수 및 광고 서버 개발
 - 팀 환경에 대한 기술블로그 글
-  - https://techblog.woowahan.com/2708/ 
+  - [https://techblog.woowahan.com/2708/](https://techblog.woowahan.com/2708/) 
 
 # 프로젝트
 ### 정률 쿠폰 적용 프로젝트(2023.9)
@@ -34,13 +34,13 @@
 - 추출한 데이터를 팀 내 rds에 저장
 - 광고시스템 서버로 rds 데이터를 서빙
 - 기술 블로그 작성
-https://techblog.woowahan.com/8240/
+[https://techblog.woowahan.com/8240/](https://techblog.woowahan.com/8240/)
 
 # 스터디
 ###  java nio (2023.9 ~ 2023.12)
 - java nio가 무엇인지 학습
 - selector를 사용하여 채팅 서버를 만들며 실습
-- https://github.com/jinwookh/java-network-study
+- [https://github.com/jinwookh/java-network-study](https://github.com/jinwookh/java-network-study)
 
 # 교육
 ### 우아한테크코스 (2019.5월 ~ 2019.12)
