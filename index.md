@@ -40,6 +40,7 @@ https://techblog.woowahan.com/8240/
 ###  java nio (2023.9 ~ 2023.12)
 - java nio가 무엇인지 학습
 - selector를 사용하여 채팅 서버를 만들며 실습
+- https://github.com/jinwookh/java-network-study
 
 # 교육
 ### 우아한테크코스 (2019.5월 ~ 2019.12)
