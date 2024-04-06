@@ -2,14 +2,14 @@
 안녕하세요, 저는 백엔드 개발자 한진욱입니다.   
 자동화를 좋아하고, 문제를 해결하는 것을 좋아합니다.
 
-# 기술스택
-aws, elasticsearch, spring web mvc, spring batch, mysql
-
 # 경력
 ### 우아한형제들 (2020.01.01 ~ 2023.10.04)
 - 광고시스템 유지 보수 및 광고 서버 개발
 - 팀 환경에 대한 기술블로그 글
   - [https://techblog.woowahan.com/2708/](https://techblog.woowahan.com/2708/) 
+
+# 기술스택
+aws, elasticsearch, spring web mvc, spring batch, mysql
 
 # 프로젝트
 ### 정률 쿠폰 적용 프로젝트(2023.9)
